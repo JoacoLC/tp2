@@ -1,0 +1,10 @@
+PImage img_bckgrnd;
+PImage img_iconic1;
+PImage img_stareis;
+PImage img_iconic2;
+PImage img_literal;
+PImage img_policef;
+PImage img_senuelo;
+PImage img_tortura;
+PImage img_lfocusd;
+PImage img_negpens;
