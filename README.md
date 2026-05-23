@@ -2,7 +2,6 @@
 Segundo trabajo práctico de Introducción a la Programación para Medios Digitales.
 
 El programa compilado está en la sección de "Releases". Como debe ser.
-
                  %%%%%%%%%%%%%%                 
              %%%%%@@@@@@@@@@@@%%%%%             
           %%%%@@@@@@@@@@@@@@@@@@@@%%%%          
